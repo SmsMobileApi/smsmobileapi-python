@@ -15,10 +15,10 @@ Once the app is installed and configured, you can obtain your API key from withi
 
 ## Features
 
-- **Send SMS**: Seamlessly send SMS messages using a simple Python function.
-- **Receive SMS**: Retrieve incoming SMS messages from your mobile device.
-- **Easy Integration**: Integrates with your Python applications with minimal setup.
-- **API Key Authentication**: Secure communication through API key-based authentication.
+- **Send SMS**: Seamlessly send SMS messages using a simple Python function
+- **Receive SMS**: Retrieve incoming SMS messages from your mobile device
+- **Easy Integration**: Integrates with your Python applications with minimal setup
+- **API Key Authentication**: Secure communication through API key-based authentication
 
 ## Installation
 
